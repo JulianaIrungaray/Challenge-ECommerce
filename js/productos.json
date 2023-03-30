@@ -1,0 +1,168 @@
+[
+    {
+        "id": "figura-01",
+        "titulo": "figura-01",
+        "imagen": "./img/figuras/1.jpg",
+        "categoria": {
+            "nombre": "Figuras",
+            "id": "figuras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "figura-02",
+        "titulo": "figura-02",
+        "imagen": "./img/figuras/2.jpg",
+        "categoria": {
+            "nombre": "Figuras",
+            "id": "figuras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "figura-03",
+        "titulo": "figura-03",
+        "imagen": "./img/figuras/3.jpg",
+        "categoria": {
+            "nombre": "Figuras",
+            "id": "figuras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "figura-04",
+        "titulo": "figura-04",
+        "imagen": "./img/figuras/4.jpg",
+        "categoria": {
+            "nombre": "Figuras",
+            "id": "figuras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "figura-05",
+        "titulo": "figura-05",
+        "imagen": "./img/figuras/5.jpg",
+        "categoria": {
+            "nombre": "Figuras",
+            "id": "figuras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "figura-06",
+        "titulo": "figura-06",
+        "imagen": "./img/figuras/6.jpg",
+        "categoria": {
+            "nombre": "Figuras",
+            "id": "figuras"
+        },
+        "precio": 1000
+    },
+
+
+
+
+    {
+        "id": "remera-01",
+        "titulo": "remera-01",
+        "imagen": "./img/remeras/1.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "remera-02",
+        "titulo": "remera-02",
+        "imagen": "./img/remeras/2.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "remera-03",
+        "titulo": "remera-03",
+        "imagen": "./img/remeras/3.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "remera-04",
+        "titulo": "remera-04",
+        "imagen": "./img/remeras/4.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "remera-05",
+        "titulo": "remera-05",
+        "imagen": "./img/remeras/5.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "remera-06",
+        "titulo": "remera-06",
+        "imagen": "./img/remeras/6.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 1000
+    },
+
+
+    {
+        "id": "accesorio-01",
+        "titulo": "accesorio-01",
+        "imagen": "./img/accesorios/1.jpg",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "accesorio-02",
+        "titulo": "accesorio-02",
+        "imagen": "./img/accesorios/2.jpg",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "accesorio-03",
+        "titulo": "accesorio-03",
+        "imagen": "./img/accesorios/3.jpg",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "accesorio-04",
+        "titulo": "accesorio-04",
+        "imagen": "./img/accesorios/4.jpg",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 1000
+    }
+]
